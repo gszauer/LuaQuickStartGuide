@@ -1,4 +1,4 @@
-# [Lua Quick Start Guide](https://luaquickstartguide.github.io/)
+# [Lua Quick Start Guide](http://luaquickstartguide.com/)
 
 A small and concise guide for anyone who wants to learn Lua programming. Learn the basics of programming trough Lua regardless of your existing skill level.
 
