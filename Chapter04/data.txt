@@ -1,3 +1,0 @@
-name gwen
-attack 20
-team blue
